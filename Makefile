@@ -1,2 +1,2 @@
 run:
-	deno run --allow-net index.ts $(FILE)
+	deno run --allow-read index.ts $(FILE)
